@@ -18,7 +18,18 @@ The information of a neural network is stored in the interconnections between th
 3. Create the neural network model with one hidden layer.
 4. Train the model with training data.
 5. Now test the model with testing data.
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ```
 /*
@@ -48,6 +59,9 @@ print("\n%s: %.2f%%" % (model.metrics_names[1],scores[1]*100))
 print(model.predict(training_data).round())
 ~~~
 
+<br></br>
+<br></br>
+<br></br>
 ## Output:
 ![XOR GATE](1.png)
 ![XORGATE](2.png)
